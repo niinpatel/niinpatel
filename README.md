@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**niinpatel/niinpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> He writes good code. 
+>
+> -- <cite>William Shakespeare</cite>
 
-Here are some ideas to get you started:
+> Nitin way too many poor jokes
+>
+> -- <cite>Annoyed colleague</cite>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> He looks cute 
+>
+> -- <cite>No one ever</cite>
+
+<!-- picture goes here --> 
+
+# About me
+
+<!-- Some fun fact about me, what I do, how I code -->
+
+# I can help you! 
+
+<!-- kind of sort of sales pitch for people hiring -->
