@@ -1,27 +1,36 @@
-### Hi there 👋
+### Hii 👋
 
 > He writes good code. 
 >
 > -- <cite>William Shakespeare</cite>
 
-> Nitin way too many poor jokes
+> Makes way too many poor jokes
 >
 > -- <cite>Annoyed colleague</cite>
 
+> He looks cute
+>
+> -- <cite>No one ever</cite>
 
 ![weird picture](./zoom-call-picture.png)
 
-<!--
-**niinpatel/niinpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.	
 
-Here are some ideas to get you started:	
-> Nitin way too many poor jokes
-- 🔭 I’m currently working on ...	
-- 🌱 I’m currently learning ...	
-- 👯 I’m looking to collaborate on ...	
-- 🤔 I’m looking for help with ...	
-- 💬 Ask me about ...	
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...	
-- ⚡ Fun fact: ...	
--->	
+### Bio
+
+🔥 I've put a lot of stuff here on Github. You can check some of the pinned repos below for the open source work which I am most proud of. Most of my actual work is not publicly visible though. 
+
+👨‍💻 Right now I'm working with @Rippling building software that helps businesses onboard/offboard employees as efficiently as possible. 
+
+🦾 I tend to hack stuff together until it works and then refactor later :) 
+
+🕶 Writing readable code has huge long term benefits, takes very little effort & yet it gets overlooked all the time. I obsessively document my code whenever I can. I pick variable names that elegantly convey the code's working while taking as little mental effort as possible. Adding comments next any non-obvious code changes makes the code 10x more mantainable! 
+
+💻 DRY principle may be somewhat overrated. Creating abstractions has its own costs in terms of making the code less adaptable to changes in requirements. These should be weighed against the cost of code duplication. When an abstraction no longer makes sense because of new requirements, it's better to re-introduce code duplication than trying to work around it!
+
+
+### Other Useful links 
+
+- [Blog](https://medium.com/@nitinpatel_20236)
+- [LinkedIn profile](https://www.linkedin.com/in/nitin-patel-b2440b121/)
+
+🥺Hire me pls 🥺  
