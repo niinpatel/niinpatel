@@ -27,10 +27,15 @@
 
 💻 DRY principle may be somewhat overrated. Creating abstractions has its own costs in terms of making the code less adaptable to changes in requirements. These should be weighed against the cost of code duplication. When an abstraction no longer makes sense because of new requirements, it's better to re-introduce code duplication than trying to work around it!
 
+📚🎼 I like listening to music & reading books! Everything from timeless classics to your latest pop which everyone hates yet is somehow popular! Stuff from cultures all over the world is something I find pretty cool! (C-pop anyone?). I'm learning to sing and would love to play an instrument as well some day. 
+
+🌐 Building online businesses is also something I'm interested in! But building software is still my first love ❤️
+
 
 ### Other Useful links 
 
 - [Blog](https://medium.com/@nitinpatel_20236)
 - [LinkedIn profile](https://www.linkedin.com/in/nitin-patel-b2440b121/)
+- nitinpatel278@gmail.com (don't spam me pls!)
 
-🥺Hire me pls 🥺  
+🥺 tldr; just hire me pls 🥺  
