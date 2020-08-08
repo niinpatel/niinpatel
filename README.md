@@ -28,7 +28,7 @@
 
 🌐 Building online businesses is also something I'm interested in! But building software is still my first love ❤️
 
-🌆 If you can't see me anywhere, I'll be at the terrace looking at the sunset 🌅
+🌆 If you can't see me anywhere, I'll be at the terrace just looking at the sunset 🌅
 
 ### Other Useful links 
 
