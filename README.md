@@ -21,11 +21,11 @@
 
 👨‍💻 Right now I'm working with @Rippling building software that helps businesses onboard/offboard employees as efficiently as possible. 
 
-🦾 I tend to hack stuff together until it works and then refactor later :) 
+🦾 I tend to hack stuff together until it just works and then I refactor it later :) 
 
 🕶 Writing readable code has huge long term benefits, takes very little effort & yet it gets overlooked all the time. I obsessively document my code whenever I can. I pick variable names that elegantly convey the code's working while taking as little mental effort as possible. Adding comments next any non-obvious code changes makes the code 10x more maintainable! 
 
-💻 DRY principle may be somewhat overrated. Creating abstractions has its costs in terms of making the code less adaptable to changes in requirements. These should be weighed against the cost of code duplication. When an abstraction no longer makes sense because of new requirements, it's better to sometimes re-introduce code duplication than trying to work around it!
+💻 The DRY principle may be somewhat overrated. Creating abstractions has its costs in terms of making the code less adaptable to changes in requirements. These should be weighed against the cost of code duplication. When an abstraction no longer makes sense because of new requirements, it's better to sometimes re-introduce code duplication than trying to work around it!
 
 📚🎼 I like listening to music & reading books! Everything from timeless classics to your latest pop which everyone hates yet is somehow popular! Stuff from cultures all over the world is something I find pretty cool! (C-pop anyone?). I'm learning to sing and would love to play an instrument as well someday. 
 
@@ -34,8 +34,8 @@
 
 ### Other Useful links 
 
-- [Blog](https://medium.com/@nitinpatel_20236)
-- [LinkedIn profile](https://www.linkedin.com/in/nitin-patel-b2440b121/)
+- [Blog on Medium](https://medium.com/@nitinpatel_20236)
+- [Profile on LinkedIn](https://www.linkedin.com/in/nitin-patel-b2440b121/)
 - nitinpatel278@gmail.com (don't spam me pls!)
 
 🥺 tldr; just hire me pls 🥺  
