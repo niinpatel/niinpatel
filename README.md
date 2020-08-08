@@ -12,7 +12,7 @@
 >
 > -- <cite>No one ever</cite>
 
-![weird picture](./zoom-call-picture.png)
+![weird picture](zoom-call-picture.png)
 
 
 ### Bio
