@@ -1,4 +1,4 @@
-### Hii 👋
+## Hii 👋
 
 > He writes good code. 
 >
@@ -12,14 +12,11 @@
 >
 > -- <cite>No one ever</cite>
 
-![](zoom-call-picture.png)
+![](https://uc08a61bad76421efdb412575774.previews.dropboxusercontent.com/p/thumb/AA6gjcfbLMIxBpw2AM_8OQ_Cr0zltsZk6_M4ByEgJpu6FI9hIrynkzSiTLnu8_hK6wSBwpFBI9833376QwfW1WdYRkdypD5j88lZa_LphOoJHSJfXKJVg0ssr2JsvwQpuWK5Wjrs_W8rd7ZjzZbm96nA9qQlREd_DwDMaUF0Mg9nmoh754qhF8ObqiDqFJetI1Cwp95A8VcSvRBIP5mqOWwoD0O-lHOyJlJ__aoWsLB_23roMvkwwxBWfNYpJCfkv1c2-gz5xnMepxRGa3nluMNpXSYERMYpjduspBhSIVvheZxMcFmnmNy-q-0PD3MJjQNQ42O335SVHSqsUQJM9910na-p19AuZ1-VgDyDFn5CF4FvDx4ZmGS1drmgc6tR36SKytU2T2fN7u5vmQ3MR7hg/p.png)
 
+🔥 I've put a lot of stuff here on Github. You can check some of the pinned repos below for the open-source work which I am most proud of. A lot of my actual work is not publicly visible though. 
 
-### Bio
-
-🔥 I've put a lot of stuff here on Github. You can check some of the pinned repos below for the open-source work which I am most proud of. Most of my actual work is not publicly visible though. 
-
-👨‍💻 Right now I'm working with @Rippling building software that helps businesses onboard/offboard employees as efficiently as possible. 
+👨‍💻 I'm working with [@Rippling](http://github.com/Rippling), building software that helps businesses onboard/offboard employees as efficiently as possible. 
 
 🦾 I tend to hack stuff together until it just works and then I refactor it later :) 
 
@@ -31,6 +28,7 @@
 
 🌐 Building online businesses is also something I'm interested in! But building software is still my first love ❤️
 
+🌆 If you can't see me anywhere, I'll be at the terrace looking at the sunset 🌅
 
 ### Other Useful links 
 
