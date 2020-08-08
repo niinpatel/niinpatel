@@ -8,16 +8,20 @@
 >
 > -- <cite>Annoyed colleague</cite>
 
-> He looks cute 
->
-> -- <cite>No one ever</cite>
 
-<!-- picture goes here --> 
+![weird picture](./zoom-call-picture.png)
 
-# About me
+<!--
+**niinpatel/niinpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.	
 
-<!-- Some fun fact about me, what I do, how I code -->
-
-# I can help you! 
-
-<!-- kind of sort of sales pitch for people hiring -->
+Here are some ideas to get you started:	
+> Nitin way too many poor jokes
+- 🔭 I’m currently working on ...	
+- 🌱 I’m currently learning ...	
+- 👯 I’m looking to collaborate on ...	
+- 🤔 I’m looking for help with ...	
+- 💬 Ask me about ...	
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ...	
+- ⚡ Fun fact: ...	
+-->	
