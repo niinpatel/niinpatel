@@ -35,5 +35,3 @@
 - [Blog on Medium](https://medium.com/@nitinpatel_20236)
 - [Profile on LinkedIn](https://www.linkedin.com/in/nitin-patel-b2440b121/)
 - nitinpatel278@gmail.com (don't spam me pls!)
-
-🥺 tldr; just hire me pls 🥺  
