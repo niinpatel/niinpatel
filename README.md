@@ -16,8 +16,6 @@
 
 🔥 I've put a lot of stuff here on Github. You can check some of the pinned repos below for the open-source work which I am most proud of. A lot of my actual work is not publicly visible though. 
 
-👨‍💻 I'm working with [@Rippling](http://github.com/Rippling), building software that helps businesses onboard/offboard employees as efficiently as possible. 
-
 🦾 I tend to hack stuff together until it just works and then I refactor it later :) 
 
 🕶 Writing readable code has huge long term benefits, takes very little effort & yet it gets overlooked all the time. I obsessively document my code whenever I can. I pick variable names that elegantly convey the code's working while taking as little mental effort as possible. Adding comments next any non-obvious code changes makes the code 10x more maintainable! 
